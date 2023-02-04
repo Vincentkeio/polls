@@ -17,7 +17,7 @@ reflar-polls:
       no_voters: No Votes
       switch: Allow people to see who voted
       min: You must include a minimum of 2 answers
-      max: You can have a maximum of 10 answers
+      max: You can have a maximum of 20 answers
       include_question: You must include a question
       date_placeholder: Poll end date (Optional)
       answer_placeholder: Answer
